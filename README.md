@@ -1,2 +1,3 @@
 # Space-Flight
-AP CSP Final
+
+Used [CMU Graphics](https://academy.cs.cmu.edu/desktop) from CMU CS Academy
